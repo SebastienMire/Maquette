@@ -1,0 +1,187 @@
+body{
+    header{
+        background-color: rgb(50, 50, 50);
+        
+    
+    #first{
+        width: 80%;
+        margin: auto;
+        display: flex;
+        justify-content: space-between;
+    }
+    #titre{
+        h1{
+            color: rgb(197,203, 211)
+        }
+    }
+    ul{
+        
+        width: 18%;
+        display: flex;
+        justify-content: space-between;
+        li{
+            display: flex;
+            color: white;
+            font-size: 1.8em;
+        }
+    }
+
+}
+#arrièreplan{
+    img{
+        width: 100%;
+    }
+}
+.rouge{
+    background-color: rgb(255,102,102);
+    width: 100%;
+    height: 90vh;
+    .bleu{
+        width: 15%;
+        margin: auto;
+        padding-top: 8%;
+        img{
+           height: 42ch;
+            
+        }
+    }
+    .jaune{
+        p{
+        width: 50%;
+        margin: auto;
+        font-size: 1.18em;
+        padding-top: 4%;
+        }
+        h5{
+        margin-left: 42%;
+        font-size: 1.18em;
+        color: rgb(197,203, 211)  
+        }
+    }
+    
+}
+.idontknow{
+    background-color: rgb(50, 50, 50);
+.icones{
+    justify-content: center;
+        h4{
+            width: 18%;
+            margin: auto;
+            font-size: 1.30em;
+            padding-bottom: 1%;
+            padding-top: 1%;
+            color: rgb(197,203, 211)
+        }
+        .p{
+            h5{
+            width: 18%;
+            margin: auto;
+            padding-top: 2%;
+            font-size: 1.18em;
+            color: rgb(197,203, 211)
+            }
+            p{
+            width: 28%;
+            margin: auto;
+            padding-bottom: 1%;
+            padding-top: 1%;
+            color: rgb(197,203, 211)
+            }
+            h6{
+            width: 10%;
+            margin: auto;
+            padding-bottom: 1%;
+            font-size: 1em;
+            color: rgb(197,203, 211)
+            }
+            
+        }
+    #bidule{
+        width: 15%;
+        margin: auto;
+        padding-bottom: 1%;
+    button{
+            border: none;
+            padding: 1vh 5vw;
+            background-color: rgb(255,102,102);    
+        }
+    }
+            }
+    #Icone{
+        width: 28%;
+        margin: auto;
+        display: flex;
+        justify-content: center;
+        justify-content: space-between;
+            
+            font-size: 2em;
+            text-decoration: none;
+            #twitter{
+                padding: 0.88em;
+                background-color: #00acee;
+                .fa-twitter{
+                    font-size: 1.8em;
+                    color: white;
+                }
+            }
+            #rss{
+                padding: 0.98em;
+                background-color: orange;
+                .fa-rss{
+                    font-size: 1.8em;
+                    color: white;
+                }
+            }
+            #facebook{
+                padding: 0.88em;
+                padding-left: 1.48em;
+                background-color: #3b5998;
+                .fa-facebook-f{
+                    font-size: 2em;
+                    color: white;
+                }
+            }
+            #tree{
+                padding: 1em;
+                background-color: green;
+                .fa-tree{
+                    font-size: 1.8em;
+                    color: white;
+                }
+            }
+            #google{
+                padding: 0.68em;
+                background-color: #db4a39;
+                .fa-google-plus-g{
+                    font-size: 1.8em;
+                    color: white;
+                }
+            }
+            #instagram{
+                padding: 1em;
+                background-color: white;
+                .fa-instagram{
+                    font-size: 1.8em;
+                    color: blue;
+                }
+                
+            }
+            #dribble{
+                padding: 0.88em;
+                background-color: #ea4c89;
+                .fa-dribbble{
+                    font-size: 1.8em;
+                    color: white;
+                }
+            }
+            #pinterest{
+                padding: 0.98em;
+                background-color: #c8232c;
+                .fa-pinterest-p{
+                    font-size: 2em;
+                    color: white;
+                }
+            }
+    }
+}
+}

@@ -1,0 +1,169 @@
+@charset "UTF-8";
+body header {
+  background-color: rgb(50, 50, 50);
+}
+body header #first {
+  width: 80%;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+}
+body header #titre h1 {
+  color: rgb(197, 203, 211);
+}
+body header ul {
+  width: 18%;
+  display: flex;
+  justify-content: space-between;
+}
+body header ul li {
+  display: flex;
+  color: white;
+  font-size: 1.8em;
+}
+body #arrièreplan img {
+  width: 100%;
+}
+body .rouge {
+  background-color: rgb(255, 102, 102);
+  width: 100%;
+  height: 90vh;
+}
+body .rouge .bleu {
+  width: 15%;
+  margin: auto;
+  padding-top: 8%;
+}
+body .rouge .bleu img {
+  height: 42ch;
+}
+body .rouge .jaune p {
+  width: 50%;
+  margin: auto;
+  font-size: 1.18em;
+  padding-top: 4%;
+}
+body .rouge .jaune h5 {
+  margin-left: 42%;
+  font-size: 1.18em;
+  color: rgb(197, 203, 211);
+}
+body .idontknow {
+  background-color: rgb(50, 50, 50);
+}
+body .idontknow .icones {
+  justify-content: center;
+}
+body .idontknow .icones h4 {
+  width: 18%;
+  margin: auto;
+  font-size: 1.3em;
+  padding-bottom: 1%;
+  padding-top: 1%;
+  color: rgb(197, 203, 211);
+}
+body .idontknow .icones .p h5 {
+  width: 18%;
+  margin: auto;
+  padding-top: 2%;
+  font-size: 1.18em;
+  color: rgb(197, 203, 211);
+}
+body .idontknow .icones .p p {
+  width: 28%;
+  margin: auto;
+  padding-bottom: 1%;
+  padding-top: 1%;
+  color: rgb(197, 203, 211);
+}
+body .idontknow .icones .p h6 {
+  width: 10%;
+  margin: auto;
+  padding-bottom: 1%;
+  font-size: 1em;
+  color: rgb(197, 203, 211);
+}
+body .idontknow .icones #bidule {
+  width: 15%;
+  margin: auto;
+  padding-bottom: 1%;
+}
+body .idontknow .icones #bidule button {
+  border: none;
+  padding: 1vh 5vw;
+  background-color: rgb(255, 102, 102);
+}
+body .idontknow #Icone {
+  width: 28%;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  justify-content: space-between;
+  font-size: 2em;
+  text-decoration: none;
+}
+body .idontknow #Icone #twitter {
+  padding: 0.88em;
+  background-color: #00acee;
+}
+body .idontknow #Icone #twitter .fa-twitter {
+  font-size: 1.8em;
+  color: white;
+}
+body .idontknow #Icone #rss {
+  padding: 0.98em;
+  background-color: orange;
+}
+body .idontknow #Icone #rss .fa-rss {
+  font-size: 1.8em;
+  color: white;
+}
+body .idontknow #Icone #facebook {
+  padding: 0.88em;
+  padding-left: 1.48em;
+  background-color: #3b5998;
+}
+body .idontknow #Icone #facebook .fa-facebook-f {
+  font-size: 2em;
+  color: white;
+}
+body .idontknow #Icone #tree {
+  padding: 1em;
+  background-color: green;
+}
+body .idontknow #Icone #tree .fa-tree {
+  font-size: 1.8em;
+  color: white;
+}
+body .idontknow #Icone #google {
+  padding: 0.68em;
+  background-color: #db4a39;
+}
+body .idontknow #Icone #google .fa-google-plus-g {
+  font-size: 1.8em;
+  color: white;
+}
+body .idontknow #Icone #instagram {
+  padding: 1em;
+  background-color: white;
+}
+body .idontknow #Icone #instagram .fa-instagram {
+  font-size: 1.8em;
+  color: blue;
+}
+body .idontknow #Icone #dribble {
+  padding: 0.88em;
+  background-color: #ea4c89;
+}
+body .idontknow #Icone #dribble .fa-dribbble {
+  font-size: 1.8em;
+  color: white;
+}
+body .idontknow #Icone #pinterest {
+  padding: 0.98em;
+  background-color: #c8232c;
+}
+body .idontknow #Icone #pinterest .fa-pinterest-p {
+  font-size: 2em;
+  color: white;
+}/*# sourceMappingURL=style.css.map */
